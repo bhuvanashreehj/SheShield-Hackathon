@@ -21,6 +21,15 @@ cd SheShield-Hackathon
 flutter pub get
 flutter run
 
+SheShield-Hackathon/
+├── lib/
+│   └── main.dart
+├── assets/
+│   └── police_mou.pdf
+├── pubspec.yaml
+├── README.md
+
+
 ## 📚 Usage
 - Tap panic button to trigger alert
 - AI detects stress and sends SMS to emergency contacts
