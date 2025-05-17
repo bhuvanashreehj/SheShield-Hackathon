@@ -1,7 +1,18 @@
+// Main entry point of the Flutter app
+// This app is designed to help women in distress
 
-// SheShield Core - Patent Pending
-import 'package:firebase_auth/firebase_auth.dart';
-// TODO: Implement voice stress analyzer
-void main() {
-  print("Launching SheShield...");
+
+import 'package:flutter/material.dart';
+void main() => runApp(MyApp());
+
+class MyApp extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      home: Scaffold(
+        appBar: AppBar(title: Text('SheShield')),
+        body: Center(child: Text('Emergency Alert App')),
+      ),
+    );
+  }
 }
