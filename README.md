@@ -1,20 +1,21 @@
- SheShield-Hackathon
+ **SheShield-Hackathon**
 "AI-powered women's safety app for JNNCE SheSecure 2025"
 
-🚨 Key Innovation
-First app combining panic button + PTSD prevention AI
-Works offline via SMS fallback
+🎯 **Unique Value Proposition** 
+ First app combining real-time safety alerts with PTSD prevention AI  
+ Offline-first design works in low-network areas  
+ Community-powered danger zone mapping  
 
- 🛠️ Tech Stack
+ 🛠️ **Tech Stack**
 - Flutter (UI framework)
 - Firebase Auth (User authentication)
 - TensorFlow Lite (Voice stress analysis)
 - Twilio API (SMS alerts)
 
-🚀 Live Demo
+🚀 **Live Demo**
 [Watch Demo Video](https://www.loom.com/) *(Update this with your actual video link)*
 
-🖥️ Installation
+🖥️ **Installation**
 ```bash
 git clone https://github.com/bhuvanashreehj/SheShield-Hackathon.git
 cd SheShield-Hackathon
@@ -30,10 +31,24 @@ SheShield-Hackathon/
 ├── README.md
 
 
-## 📚 Usage
-- Tap panic button to trigger alert
-- AI detects stress and sends SMS to emergency contacts
+ 📚 Usage
+Tap panic button to trigger alert
+ AI detects stress and sends SMS to emergency contacts
 
-## 🤝 Contributing
+ 🤝 Contributing
 Pull requests are welcome. For major changes, open an issue first.
+ 
+
+ 📊 Validation  
+## 💬 User Feedback
+
+> "It detected my stress pretty well!" – Beta Tester
+
+![User Feedback](https://ik.imagekit.io/6ilngyaqa/1747503456597-1000107437_RmXSo23iN.jpg)
+  
+
+🚨 Next Steps  
+Finalizing Shimoga Police API integration  
+Expanding mental health chatbot dataset
+Multilingual Support with voice chat features
 
