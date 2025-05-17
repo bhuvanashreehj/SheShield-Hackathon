@@ -1,15 +1,23 @@
  SheShield-Hackathon
 "AI-powered women's safety app for JNNCE SheSecure 2025"
 
-
-🛠️ Tech Stack  
-mermaid
-graph LR
-  A[Flutter App] --> B[Firebase Auth]
-  A --> C[TensorFlow Lite]
-  A --> D[Twilio API]
-
 🚨 Key Innovation
 First app combining panic button + PTSD prevention AI
 Works offline via SMS fallback
-Police-validated response protocol
+
+ 🛠️ Tech Stack
+- Flutter (UI framework)
+- Firebase Auth (User authentication)
+- TensorFlow Lite (Voice stress analysis)
+- Twilio API (SMS alerts)
+
+🚀 Live Demo
+[Watch Demo Video](https://www.loom.com/) *(Update this with your actual video link)*
+
+🖥️ Installation
+```bash
+git clone https://github.com/bhuvanashreehj/SheShield-Hackathon.git
+cd SheShield-Hackathon
+flutter pub get
+flutter run
+
