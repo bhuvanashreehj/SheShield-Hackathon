@@ -12,9 +12,6 @@
 - TensorFlow Lite (Voice stress analysis)
 - Twilio API (SMS alerts)
 
-🚀 **Live Demo**
-[Watch Demo Video](https://www.loom.com/) *(Update this with your actual video link)*
-
 🖥️ **Installation**
 ```bash
 git clone https://github.com/bhuvanashreehj/SheShield-Hackathon.git
