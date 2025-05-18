@@ -42,6 +42,7 @@ Pull requests are welcome. For major changes, open an issue first.
 > "It detected my stress pretty well!" – Beta Tester
 
 ![User Feedback](https://ik.imagekit.io/6ilngyaqa/1747503456597-1000107437_RmXSo23iN.jpg)
+Note: Production version uses Flutter for mobile, but we're demoing the web POC for hackathon speed.
   
 
 🚨 Next Steps  
